@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guia2GreciaHA17I04002</string>
+
+    <string name="preguta1">Digite su fruta favorita</string>
+    <string name="fruta">Manzana</string>
+    <string name="pregunta2">Digite su animal favorito</string>
+    <string name="animal">Perro</string>
+    <string name="pregunta3">Digite su Lenguaje de programacion favorito</string>
+    <string name="lenguaje">C#</string>
+    <string name="btnprocesar">Procesar</string>
+    <string name="titulo">Ingrese sus Datos</string>
+    <string name="btnIniciarsesion">Iniciar Sesion</string>
+</resources>
